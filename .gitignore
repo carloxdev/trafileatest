@@ -1,0 +1,21 @@
+# ------------------- OS GENERATED FILES ------------------- #
+.DS_Store
+.Trashes
+Thumbs.db
+
+# ------------------- PYTHON FILES ------------------- #
+*.pyc
+
+# ------------------- DB FILES ------------------- #
+db.*
+
+# ------------------- DIRECTORIES ------------------- #
+media/*
+static/*
+.vscode/*
+
+# ------------------- CONFIGURATION ------------------- #
+TestTrafilea/settings.py
+
+# ------------------- MIGRATIONS ------------------- #
+security/migrations/*
