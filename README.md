@@ -8,7 +8,13 @@ Este manual considera que tienes ya instalado el interprete de Python y gesto de
 
 ### Base de datos
 
-Se debera de crear una BD con el nombre testdb.
+Se debera de crear una BD con el nombre 'testdb' (sin las comillas).
 
 
 ### Librerias
+
+La instalacion de librerias puede ser realizada con el siguiente comando:
+
+```
+$ pip install -r requirements.txt
+```
