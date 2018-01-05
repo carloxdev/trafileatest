@@ -54,7 +54,7 @@ Una vez seleccionado el archivo se mostrara un preview de los datos que se impor
 
 Al dar click al boton "Confirmar Importacion" la informacion estara correctamente cargada:
 
-![alt text](https://github.com/carloxdev/trafileatest/blob/master/images/export_export_fin.png)
+![alt text](https://github.com/carloxdev/trafileatest/blob/master/images/export_fin.png)
 
 
 ### Documentación:
@@ -73,11 +73,11 @@ Para poder hacer uso del endpoint "/users/" se debera de firmar en la aplicacion
 
 ![alt text](https://github.com/carloxdev/trafileatest/blob/master/images/test_login.png)
 
-Lo anterior devolvera un token que debera ser enviado en los Hearders de las peteciones que se hagan.
+Lo anterior devolvera un token que debera ser enviado en los Hearders de las peticiones que se hagan.
 
 ### End Point Users
 
-Para consultar los usuarios mediante el endpoint "/users/", se debera de contar ya con un token valido (estar firmado en la aplicacion) y hacer la peticion GET de la siguiente forma:
+Para consultar los usuarios con el endpoint "/users/", se debera de contar ya con un token valido (estar firmado en la aplicacion) y hacer la peticion GET de la siguiente forma:
 
 ![alt text](https://github.com/carloxdev/trafileatest/blob/master/images/test_consulta.png)
 
